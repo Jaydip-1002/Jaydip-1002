@@ -8,6 +8,7 @@
 - 📫 How to reach me: send a message on <a href="https://www.linkedin.com/in/jaydip-golakiya-786a9b132">LinkedIn</a> or via <a href="mailto:jaydipgolakiya100@gmail.com">Email</a>
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jaydip-golakiya-786a9b132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-bierman" height="30" width="40" /></a>
@@ -59,6 +60,9 @@
 
 <h3 align="left">Stats:</h3>
 
+![GitHub Streak](https://github-readme-stats-mu-two-53.vercel.app/api?username=Jaydip-1002&show_icons=true&theme=moltack&include_all_commits=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jaydip-1002&theme=moltack)](https://git.io/streak-stats)
+
+
 
 
