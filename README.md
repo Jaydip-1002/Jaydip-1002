@@ -56,8 +56,6 @@
   </a>
 </p>
 
-<br/>
-
 
 <h3 align="left">Stats:</h3>
 
