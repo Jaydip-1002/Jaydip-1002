@@ -7,6 +7,7 @@
 - 💬 Ask me about tech or the outdoors
 - 📫 How to reach me: send a message on <a href="https://www.linkedin.com/in/jaydip-golakiya-786a9b132">LinkedIn</a> or via <a href="mailto:jaydipgolakiya100@gmail.com">Email</a>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jaydip-golakiya-786a9b132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-bierman" height="30" width="40" /></a>
@@ -58,11 +59,8 @@
 <br/>
 
 
+<h3 align="left">Stats:</h3>
 
-<details><summary>Stats</summary>
-<p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jaydip-1002&theme=moltack)](https://git.io/streak-stats)
 
-![Jaydip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaydip-1002&count_private=true&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-</p>
-</details>
