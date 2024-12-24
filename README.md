@@ -1,10 +1,8 @@
 <h1 align="left">Hi there 👋, I'm Jaydip</h1>
-<h3 align="left">A passionate software developer from India</h3>
+<h3 align="left">Software developer</h3>
 
 - 🎓 I studied from <a href="https://bitseducampus.org/">**BITS Edu Campus**</a>
 - 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on any open-source project
-- 💬 Ask me about tech or the outdoors
 - 📫 How to reach me: send a message on <a href="https://www.linkedin.com/in/jaydip-golakiya-786a9b132">LinkedIn</a> or via <a href="mailto:jaydipgolakiya100@gmail.com">Email</a>
 
 
